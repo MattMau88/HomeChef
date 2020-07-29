@@ -77,3 +77,7 @@ gem 'youtube_id'
 # Added by Matt on Saturday, 13 June:
 gem "bootstrap", ">= 4.3.1"
 gem 'acts-as-taggable-on', '~> 6.0'
+
+# Added by Matt on 29 July 2020:
+gem "rack", ">= 2.2.3"
+gem "actionpack", ">= 6.0.3.2"
